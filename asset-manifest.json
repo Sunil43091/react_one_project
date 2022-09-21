@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react_one_project/static/css/main.9ebb407d.css",
+    "main.js": "/react_one_project/static/js/main.a32a127e.js",
+    "static/js/787.ad98c154.chunk.js": "/react_one_project/static/js/787.ad98c154.chunk.js",
+    "static/media/company.jpg": "/react_one_project/static/media/company.13713c0e759a4f3f20d8.jpg",
+    "static/media/reason.jpg": "/react_one_project/static/media/reason.631fd581ec5dbfe2a490.jpg",
+    "static/media/withus.jpg": "/react_one_project/static/media/withus.ab744f75daf1e7060ee1.jpg",
+    "static/media/reviwes.jpg": "/react_one_project/static/media/reviwes.5466f13c1c857ed64be0.jpg",
+    "static/media/service.jpg": "/react_one_project/static/media/service.20d88b34f036eb909047.jpg",
+    "static/media/digitelwebp": "/react_one_project/static/media/digitelwebp.3a6ff056432854c59357",
+    "static/media/web.webp": "/react_one_project/static/media/web.b4feda05d2104dfc4138.webp",
+    "static/media/mobiles-apps_53876-119987.webp": "/react_one_project/static/media/mobiles-apps_53876-119987.6c198b100400bb7a9b6f.webp",
+    "static/media/businessman.webp": "/react_one_project/static/media/businessman.607fb60188a702186410.webp",
+    "static/media/ios.webp": "/react_one_project/static/media/ios.ff5140d04983fed5fe4d.webp",
+    "static/media/uidesign.webp": "/react_one_project/static/media/uidesign.6f9482f5d8d329c3071d.webp",
+    "index.html": "/react_one_project/index.html",
+    "main.9ebb407d.css.map": "/react_one_project/static/css/main.9ebb407d.css.map",
+    "main.a32a127e.js.map": "/react_one_project/static/js/main.a32a127e.js.map",
+    "787.ad98c154.chunk.js.map": "/react_one_project/static/js/787.ad98c154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ebb407d.css",
+    "static/js/main.a32a127e.js"
+  ]
+}
